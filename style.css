@@ -1,0 +1,48 @@
+.panda-bg-info{
+    background-color: #fceae8 ;
+}
+.categories img{
+    width: 100px;
+}
+.categories h1{
+    color: white;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #ff136f ;
+}
+p{
+    color: #ff136f ;
+}
+.info{
+    color: #ff136f ;
+}
+
+.bg-watch{
+    background-color: #ffa500;
+}
+.bg-bag{
+    background-color: #da70d6;
+}
+.bg-shoe{
+    background-color: #0000ff;
+}
+.panda-btn-buy-now{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.btn-submit{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.subs p{
+    color: #808080
+}
